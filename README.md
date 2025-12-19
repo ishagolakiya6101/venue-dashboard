@@ -7,8 +7,8 @@ Built using **React**, **Node.js (Express)**, **PostgreSQL (Neon)** and deployed
 
 ## 🚀 Live Demo
 
-- **Frontend:** https://YOUR-FRONTEND.vercel.app  
-- **Backend API:** https://YOUR-BACKEND.vercel.app/api/dashboard  
+- **Frontend:** https://venue-dashboard-frontend.vercel.app/ 
+- **Backend API:** https://venue-dashboard-six.vercel.app/api/dashboard/stats
 
 ---
 
